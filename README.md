@@ -8,7 +8,7 @@ Currently learning python programming via free online resources online
 
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [wesleyytiong@gmail.com](mailto:wesleyytiong@gmail.com)
-* 🧠  I'm learning Data Structures & Algorithms as it pertains to Python
+* 🧠  I'm learning Data Structures & Algorithms as it pertains to Python, and Cybersecurity concepts including technologies such as SQL, Linux Bash commands, and automation with Python
 
 ### Skills
 
