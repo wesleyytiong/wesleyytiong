@@ -1,27 +1,77 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wesley Tiong
-====================================================================================================================================
+<!-- ![Github Banner](pc2.gif)-->
+<div align="center">
+  <img height="200" src="./pc2.gif" />
+</div>
+<hr>
 
-Self-Taught Python Programmer
------------------------------
+<h1 align="center">Hello World!</h1>
 
-Currently learning python programming via free online resources online
+<!-- Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=I'm+Chris+👋" alt="Typing SVG" />
+</div>
 
-* 🌍  I'm based in Dallas, TX
-* ✉️  You can contact me at [wesleyytiong@gmail.com](mailto:wesleyytiong@gmail.com)
-* 🧠  I'm learning Data Structures & Algorithms as it pertains to Python, and Cybersecurity concepts including technologies such as SQL, Linux Bash commands, and automation with Python
+---
 
-### Skills
+- ☕️ - Aspiring Cyber Security Student
+- 📚 - Always Learning
+- 📝 Checkout my [notes](https://wesleyytiong.github.io/notes/)
+- 💻 - Focusing on Security Operations
+- 🔭 I’m currently working on **Security+**
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/wesleyytiong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesleyytiong" height="30" width="40" /></a>
+
 </p>
 
-### Socials
+---
+###
+<!-- Projects -->
+<h3 align="left">⚙️Recent Projects</h3>
 
-<p align="left"> <a href="https://www.github.com/wesleyytiong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/wesleyytiong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+* [Python Portfolio Stock Analyzer](https://github.com/wesleyytiong/portfolio-repo)
 
-<b>My GitHub Stats</b>
+###
 
-<a href="http://www.github.com/wesleyytiong"><img src="https://github-readme-stats.vercel.app/api?username=wesleyytiong&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wesleyytiong's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/wesleyytiong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyytiong&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+<a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</a></a></p>
+
+---
+
+[comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleyytiong&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="csa" /></p>)
+
+[comment]: <> (![Wesley's github stats]&#40;https://github-readme-stats.vercel.app/api?username=wesleyytiong&show_icons=true&theme=solarized-dark&#41; )
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyytiong&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
+ </a></p>
+
+---
+
+[comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleyytiong&show_icons=true&locale=en" alt="csa" /></p>)
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyytiong&theme=solarized-dark&hide_border=true" alt="csa" /></p>
+
+---
+
+###
+
+<!-- Visitor count -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wesleyytiong/count.svg?"  />
+</div>
+
+###
