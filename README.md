@@ -8,7 +8,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=I'm+Chris+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=I'm+Wesley+👋" alt="Typing SVG" />
 </div>
 
 ---
@@ -22,7 +22,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/wesleyytiong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesleyytiong" height="30" width="40" /></a>
 
 </p>
