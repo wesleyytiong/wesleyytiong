@@ -13,11 +13,11 @@
 
 ---
 
-- ☕️ - Aspiring Cyber Security Student
-- 📚 - Always Learning
-- 📝 Checkout my [notes](https://github.com/wesleyytiong/notes)
-- 💻 - Focusing on Security Operations
-- 🔭 I’m currently working on **Security+**
+- Aspiring Cyber Security Student
+- Always Learning
+- Checkout my [notes](https://github.com/wesleyytiong/notes)
+- Focusing on NIST CSF/RMF
+- I’m currently working on **Security+**
 
 ---
 
