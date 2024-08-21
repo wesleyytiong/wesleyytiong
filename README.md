@@ -15,7 +15,7 @@
 
 - ☕️ - Aspiring Cyber Security Student
 - 📚 - Always Learning
-- 📝 Checkout my [notes]([https://wesleyytiong.github.io/notes/](https://github.com/wesleyytiong/notes))
+- 📝 Checkout my [notes](https://github.com/wesleyytiong/notes)
 - 💻 - Focusing on Security Operations
 - 🔭 I’m currently working on **Security+**
 
