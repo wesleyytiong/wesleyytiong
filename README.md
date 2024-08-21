@@ -15,7 +15,7 @@
 
 - Aspiring Cyber Security Student
 - Always Learning
-- Checkout my [notes](https://github.com/wesleyytiong/notes)
+- Check out my [notes](https://github.com/wesleyytiong/notes)
 - Focusing on NIST CSF/RMF
 - I’m currently working on **Security+**
 
