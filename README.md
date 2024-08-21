@@ -1,6 +1,6 @@
 <!-- ![Github Banner](pc2.gif)-->
 <div align="center">
-  <img height="200" src="./pc2.gif" />
+  <img height="200" src="./pc1.gif" />
 </div>
 <hr>
 
