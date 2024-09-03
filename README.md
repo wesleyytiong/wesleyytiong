@@ -32,6 +32,7 @@
 <!-- Projects -->
 <h3 align="left">⚙️Recent Projects</h3>
 
+* [SOC Honeynet in Azure](https://github.com/wesleyytiong/azure-soc)
 * [Python Portfolio Stock Analyzer](https://github.com/wesleyytiong/portfolio-repo)
 * [IP Address Filter](https://github.com/wesleyytiong/ip_address_log_file_repo)
 
