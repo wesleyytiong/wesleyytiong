@@ -16,8 +16,8 @@
 - Aspiring Cyber Security Student
 - Always Learning
 - Check out my [notes](https://github.com/wesleyytiong/notes)
-- Focusing on NIST CSF/RMF
-- I’m currently working on **Security+**
+- Focusing on OSI Model/Network+ Objectives
+- I’m currently working on **Network+**
 
 ---
 
