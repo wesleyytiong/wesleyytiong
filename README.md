@@ -13,7 +13,7 @@
 
 ---
 
-- Aspiring Cyber Security Student
+- Enthusiast of all things technology
 - Always Learning
 - Check out my [notes](https://github.com/wesleyytiong/notes)
 - Focusing on OSI Model/Network+ Objectives
