@@ -34,7 +34,6 @@
 
 * [SOC Honeynet in Azure](https://github.com/wesleyytiong/soc-azure)
 * [Python Portfolio Stock Analyzer](https://github.com/wesleyytiong/portfolio-repo)
-* [IP Address Filter](https://github.com/wesleyytiong/ip_address_log_file_repo)
 
 ###
 
