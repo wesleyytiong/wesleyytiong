@@ -13,21 +13,20 @@
 
 ---
 
+- MBA/MS Candidate
 - Enthusiast of all things technology
 - Always Learning
 - Check out my [notes](https://github.com/wesleyytiong/notes)
-- Focusing on OSI Model/Network+ Objectives
-- I’m currently working on **Network+**
+
 
 ---
 
 ## ✈️ Work Flights
 
+<img width="1258" height="700" alt="Flights" src="https://github.com/user-attachments/assets/3357d46b-dd95-4efe-a99a-0ea808221bad" />
 **Last Updated:** June 11, 2026
 
 A Tableau visualization of my business travel history, showing flight routes and destinations associated with work assignments and projects.
-
-![Work Flights Map](images/work-flights-map.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
