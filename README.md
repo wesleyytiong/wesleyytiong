@@ -13,11 +13,40 @@
 
 ---
 
-- MBA/MS Candidate
+- MBA/MS Candidate, Focus in Business Analytics and AI
 - Enthusiast of all things technology
 - Always Learning
-- Check out my [notes](https://github.com/wesleyytiong/notes)
 
+---
+
+## 🛠️ Technologies & Tools
+
+### 📊 Data Analytics & Visualization
+- Tableau
+- Microsoft Excel
+- SQL
+- Data Modeling (ERD)
+- Microsoft Visio
+- Visual Paradigm
+
+### 🗄️ Databases
+- MySQL
+- MongoDB
+
+### ☁️ Cloud & Platforms
+- Microsoft Azure
+
+### 💻 Programming & Development
+- Python
+- Git
+- Linux
+- Visual Studio Code
+
+### 📚 Currently Learning
+- ETL Processes
+- Data Engineering
+- Database Design
+- Data Warehousing
 
 ---
 
@@ -40,23 +69,8 @@ A Tableau visualization of my business travel history, showing flight routes and
 <h3 align="left">⚙️Recent Projects</h3>
 
 * [SOC Honeynet in Azure](https://github.com/wesleyytiong/soc-azure)
-* [Python Portfolio Stock Analyzer](https://github.com/wesleyytiong/portfolio-repo)
 
 ###
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</a></a></p>
-
----
 
 [comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleyytiong&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="csa" /></p>)
 
@@ -73,12 +87,5 @@ A Tableau visualization of my business travel history, showing flight routes and
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyytiong&theme=solarized-dark&hide_border=true" alt="csa" /></p>
 
 ---
-
-###
-
-<!-- Visitor count -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/wesleyytiong/count.svg?"  />
-</div>
 
 ###
